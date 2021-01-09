@@ -1,4 +1,4 @@
-# Android_youtube_downloader
+# Android_youtube_downloader (Termux - terminal)
 
 # Manual installation
 Install Termux from the google store
