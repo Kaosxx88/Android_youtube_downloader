@@ -71,7 +71,7 @@ Now any music app will see the mp3 file
 
 #### Screenshot
 <p align="center">
-  <img src="https://github.com/Kaosxx88/Android_youtube_downloader/blob/main/screenshots/downloading_process.jpg?raw=true">
+  <img src="https://github.com/Kaosxx88/Android_youtube_downloader/blob/main/Screenshots/downloading_process.jpg?raw=true">
 </p>
 
 ### Upgrade
